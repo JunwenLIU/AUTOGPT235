@@ -1,0 +1,2 @@
+# AUTOGPT235
+使用AUTOGPT建立鱼菜共生模型
